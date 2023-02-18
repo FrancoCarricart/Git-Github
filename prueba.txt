@@ -4,4 +4,4 @@ bla bla
 asadsadas
 
 nuevas actualizaciones
-agrego cambios a data clases
+agrego cambios a data clase
